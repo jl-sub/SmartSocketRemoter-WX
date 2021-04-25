@@ -1,0 +1,4 @@
+<!--pages/home_center/common_panel/components/Status/index.wxml-->
+<van-cell-group>
+  <van-cell title="{{dpName}}" value="{{dpStatus}} {{dpUnit}}" icon="{{dpIcon}}"></van-cell>
+</van-cell-group>
