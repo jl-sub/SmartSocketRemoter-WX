@@ -1,2 +1,3 @@
 # SmartSocketRemoter-WX
-An experimental project of WeChat Mini-Program, using Tuya SDK.
+This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.
+
